@@ -1,4 +1,4 @@
-# Logo do colabhub
+# co(lab)[hub] Logo
 
 Esse é o primeiro de muitos projetos que faremos de maneira colaborativa no colabhub, um grupo aberto de designgers, artistas, arquitetos e urbanistas que tem por objetivo transformar o método de concepção individual e criacionista em coletivo e colaborativista.
 Os desafios são muitos, mas precisamos começar de algum lugar, aqui, desenvolvendo conjuntamente um logotipo para nos representar.
